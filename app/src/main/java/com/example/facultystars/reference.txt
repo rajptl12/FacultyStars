@@ -1,0 +1,27 @@
+FacultyStars App – Reference Guide
+References Used:
+
+Jetpack Compose Documentation: https://developer.android.com/jetpack/compose
+
+Android Developers Guide: https://developer.android.com/guide
+
+Faculty images : https://www.montclair.edu/psychology/graduate-programs/phd-in-clinical-psychology/program-faculty/
+
+Class Lecture Materials
+
+1. Project Overview:
+
+App Name: FacultyStars
+
+Purpose: Android app showcasing star faculty members.
+
+Core Features:
+
+Faculty List View: Scrollable list of faculty cards.
+
+Faculty Details View: Detailed view for each faculty member (image, name, title, tagline)
+2. Images:
+   - Place all images in `res/drawable/`
+3.  Terminal Build and Run (Windows):
+
+4. Launch the app on emulator/device.
