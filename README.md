@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 FacultyStars App – Reference Guide
 References Used:
@@ -26,3 +27,6 @@ Faculty Details View: Detailed view for each faculty member (image, name, title,
 3.  Terminal Build and Run (Windows):
 
 4. Launch the app on emulator/device.
+=======
+# FacultyStars
+>>>>>>> af1ad1418bb82a8399c9ac4c7b9bf80a6c7fbfc7
